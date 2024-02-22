@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Miguel José
+- 👀 I’m interested in PHP, JS, XML, JS, JSON, C# and other languages
+- 🌱 I’m currently learning PHP
+
+
+<!---
+Josef-miguel/Josef-miguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
