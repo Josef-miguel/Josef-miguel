@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel José
-- 👀 I’m interested in PHP, JS, XML, JS, JSON, C# and other languages
+- 👀 I’m interested in PHP, JS, React, C# and other languages
 - 🌱 I’m currently learning PHP
 - 📕I´m studying in ETEC REGISTO the technical course developemt systems
 
