@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Miguel José
-- 👀 I’m interested in PHP, JS, React, C# and other languages
-- 🌱 I’m currently learning PHP
-- 📕I´m studying in ETEC REGISTO the technical course developemt systems
-
-
-<!---
-Josef-miguel/Josef-miguel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá — sou Miguel José, estudante de Desenvolvimento de Sistemas na ETEC REGISTO. Tenho interesse por PHP,Phyton, JavaScript, React e C# e, atualmente, estou me aprofundando em PHP, focando em criação de APIs REST, lógica de back-end e integração com front-ends em React. Nos meus projetos procuro aplicar boas práticas de organização de código, versionamento com Git e desenvolvimento orientado a resultados — construindo aplicações web funcionais, interfaces responsivas e pequenas automações que resolvam problemas reais. Estou sempre aprendendo novas ferramentas, aberto a colaborações e a trocar conhecimento com a comunidade para evoluir como desenvolvedor full-stack em formação. 🚀
