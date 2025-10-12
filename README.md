@@ -1,1 +1,35 @@
-👋 Olá — sou Miguel José, estudante de Desenvolvimento de Sistemas na ETEC REGISTO. Tenho interesse por PHP,Phyton, JavaScript, React e C# e, atualmente, estou me aprofundando em PHP, focando em criação de APIs REST, lógica de back-end e integração com front-ends em React. Nos meus projetos procuro aplicar boas práticas de organização de código, versionamento com Git e desenvolvimento orientado a resultados — construindo aplicações web funcionais, interfaces responsivas e pequenas automações que resolvam problemas reais. Estou sempre aprendendo novas ferramentas, aberto a colaborações e a trocar conhecimento com a comunidade para evoluir como desenvolvedor full-stack em formação. 🚀
+👋 Olá — eu sou Miguel José
+
+Estudante de Desenvolvimento de Sistemas — ETEC REGISTO
+
+🔭 O que eu faço
+
+Construo APIs REST em PHP e integro com front-ends em React.
+
+Desenvolvo interfaces responsivas e pequenas automações.
+
+Organizo código com Git e boas práticas (clean code, modularidade).
+
+💻 Tech stack
+
+PHP · JavaScript · React · C# · HTML · CSS
+
+🌱 Atualmente
+
+Aprendendo profundamente PHP (rotas, controllers, autenticação e testes).
+
+Explorando otimizações entre back-end e front-end (API <> React).
+
+🚧 Projetos recentes
+
+API de tarefas — CRUD com autenticação e persistência simples.
+
+Landing responsiva — UI em React + consumo de API.
+
+Mini automação — script para exportar relatórios básicos.
+
+📫 Contato & colaboração
+
+Aberto a colaborações, code reviews e projetos educativos.
+
+Email: seu.email@exemplo.com • LinkedIn / GitHub: @seu-usuario
